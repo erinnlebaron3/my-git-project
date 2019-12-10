@@ -1,1 +1,2 @@
-wake up AD
+def hi_there():
+    print("hi")
